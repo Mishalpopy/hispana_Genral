@@ -1564,7 +1564,7 @@ ul{
 *******************************************************/
 .clv_gallery_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x1080') no-repeat center;
+	background: url('../images/home/gallery_bg.jpg') no-repeat center;
 	background-size: cover;
 	padding-top: 90px;
 	padding-bottom: 85px;
@@ -1645,7 +1645,7 @@ ul{
 12. team start
 *******************************************************/
 .index_v1 .clv_team_wrapper{
-	background-image: url('https://via.placeholder.com/1920x1080');
+	background-image: url('../images/home/team_bg.jpg');
 	background-size: contain;
 }
 .clv_team_wrapper{
@@ -6852,9 +6852,9 @@ ul{
 /*Breadcrumb Start*/
 .breadcrumb_wrapper{
 	position: relative;
-	background: url('https://via.placeholder.com/1920x160') no-repeat center;
+	background: url('../images/service/breed.png') no-repeat center;
 	background-size: cover;
-	padding: 63px 0px 57px;
+	padding: 63px 0px 200px;
 	z-index: 1;
 }
 .breadcrumb_wrapper:before{
